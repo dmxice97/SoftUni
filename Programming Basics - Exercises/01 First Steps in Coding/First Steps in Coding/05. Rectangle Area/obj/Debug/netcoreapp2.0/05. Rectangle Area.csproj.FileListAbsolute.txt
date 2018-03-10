@@ -1,0 +1,10 @@
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\01 First Steps in Coding\First Steps in Coding\05. Rectangle Area\bin\Debug\netcoreapp2.0\05. Rectangle Area.deps.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\01 First Steps in Coding\First Steps in Coding\05. Rectangle Area\bin\Debug\netcoreapp2.0\05. Rectangle Area.runtimeconfig.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\01 First Steps in Coding\First Steps in Coding\05. Rectangle Area\bin\Debug\netcoreapp2.0\05. Rectangle Area.runtimeconfig.dev.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\01 First Steps in Coding\First Steps in Coding\05. Rectangle Area\bin\Debug\netcoreapp2.0\05. Rectangle Area.dll
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\01 First Steps in Coding\First Steps in Coding\05. Rectangle Area\bin\Debug\netcoreapp2.0\05. Rectangle Area.pdb
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\01 First Steps in Coding\First Steps in Coding\05. Rectangle Area\obj\Debug\netcoreapp2.0\05. Rectangle Area.csproj.CoreCompileInputs.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\01 First Steps in Coding\First Steps in Coding\05. Rectangle Area\obj\Debug\netcoreapp2.0\05. Rectangle Area.AssemblyInfoInputs.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\01 First Steps in Coding\First Steps in Coding\05. Rectangle Area\obj\Debug\netcoreapp2.0\05. Rectangle Area.AssemblyInfo.cs
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\01 First Steps in Coding\First Steps in Coding\05. Rectangle Area\obj\Debug\netcoreapp2.0\05. Rectangle Area.dll
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\01 First Steps in Coding\First Steps in Coding\05. Rectangle Area\obj\Debug\netcoreapp2.0\05. Rectangle Area.pdb

@@ -1,0 +1,10 @@
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\01.Excellent Result\bin\Debug\netcoreapp2.0\01.Excellent Result.deps.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\01.Excellent Result\bin\Debug\netcoreapp2.0\01.Excellent Result.runtimeconfig.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\01.Excellent Result\bin\Debug\netcoreapp2.0\01.Excellent Result.runtimeconfig.dev.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\01.Excellent Result\bin\Debug\netcoreapp2.0\01.Excellent Result.dll
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\01.Excellent Result\bin\Debug\netcoreapp2.0\01.Excellent Result.pdb
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\01.Excellent Result\obj\Debug\netcoreapp2.0\01.Excellent Result.csproj.CoreCompileInputs.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\01.Excellent Result\obj\Debug\netcoreapp2.0\01.Excellent Result.AssemblyInfoInputs.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\01.Excellent Result\obj\Debug\netcoreapp2.0\01.Excellent Result.AssemblyInfo.cs
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\01.Excellent Result\obj\Debug\netcoreapp2.0\01.Excellent Result.dll
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\01.Excellent Result\obj\Debug\netcoreapp2.0\01.Excellent Result.pdb

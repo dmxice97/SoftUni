@@ -1,0 +1,10 @@
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\01 First Steps in Coding\First Steps in Coding\06. Square of Stars\bin\Debug\netcoreapp2.0\06. Square of Stars.deps.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\01 First Steps in Coding\First Steps in Coding\06. Square of Stars\bin\Debug\netcoreapp2.0\06. Square of Stars.runtimeconfig.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\01 First Steps in Coding\First Steps in Coding\06. Square of Stars\bin\Debug\netcoreapp2.0\06. Square of Stars.runtimeconfig.dev.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\01 First Steps in Coding\First Steps in Coding\06. Square of Stars\bin\Debug\netcoreapp2.0\06. Square of Stars.dll
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\01 First Steps in Coding\First Steps in Coding\06. Square of Stars\bin\Debug\netcoreapp2.0\06. Square of Stars.pdb
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\01 First Steps in Coding\First Steps in Coding\06. Square of Stars\obj\Debug\netcoreapp2.0\06. Square of Stars.csproj.CoreCompileInputs.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\01 First Steps in Coding\First Steps in Coding\06. Square of Stars\obj\Debug\netcoreapp2.0\06. Square of Stars.AssemblyInfoInputs.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\01 First Steps in Coding\First Steps in Coding\06. Square of Stars\obj\Debug\netcoreapp2.0\06. Square of Stars.AssemblyInfo.cs
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\01 First Steps in Coding\First Steps in Coding\06. Square of Stars\obj\Debug\netcoreapp2.0\06. Square of Stars.dll
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\01 First Steps in Coding\First Steps in Coding\06. Square of Stars\obj\Debug\netcoreapp2.0\06. Square of Stars.pdb
