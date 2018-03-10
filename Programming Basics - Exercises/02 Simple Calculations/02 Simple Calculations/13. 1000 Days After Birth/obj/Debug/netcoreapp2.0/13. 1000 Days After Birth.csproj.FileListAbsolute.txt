@@ -1,0 +1,10 @@
+c:\users\dmxic\source\repos\02 Simple Calculations\13. 1000 Days After Birth\bin\Debug\netcoreapp2.0\13. 1000 Days After Birth.deps.json
+c:\users\dmxic\source\repos\02 Simple Calculations\13. 1000 Days After Birth\bin\Debug\netcoreapp2.0\13. 1000 Days After Birth.runtimeconfig.json
+c:\users\dmxic\source\repos\02 Simple Calculations\13. 1000 Days After Birth\bin\Debug\netcoreapp2.0\13. 1000 Days After Birth.runtimeconfig.dev.json
+c:\users\dmxic\source\repos\02 Simple Calculations\13. 1000 Days After Birth\bin\Debug\netcoreapp2.0\13. 1000 Days After Birth.dll
+c:\users\dmxic\source\repos\02 Simple Calculations\13. 1000 Days After Birth\bin\Debug\netcoreapp2.0\13. 1000 Days After Birth.pdb
+c:\users\dmxic\source\repos\02 Simple Calculations\13. 1000 Days After Birth\obj\Debug\netcoreapp2.0\13. 1000 Days After Birth.csproj.CoreCompileInputs.cache
+c:\users\dmxic\source\repos\02 Simple Calculations\13. 1000 Days After Birth\obj\Debug\netcoreapp2.0\13. 1000 Days After Birth.AssemblyInfoInputs.cache
+c:\users\dmxic\source\repos\02 Simple Calculations\13. 1000 Days After Birth\obj\Debug\netcoreapp2.0\13. 1000 Days After Birth.AssemblyInfo.cs
+c:\users\dmxic\source\repos\02 Simple Calculations\13. 1000 Days After Birth\obj\Debug\netcoreapp2.0\13. 1000 Days After Birth.dll
+c:\users\dmxic\source\repos\02 Simple Calculations\13. 1000 Days After Birth\obj\Debug\netcoreapp2.0\13. 1000 Days After Birth.pdb

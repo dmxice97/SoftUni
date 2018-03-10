@@ -1,0 +1,11 @@
+c:\users\dmxic\source\repos\02 Simple Calculations\04. Concatenate Data\bin\Debug\netcoreapp2.0\04. Concatenate Data.deps.json
+c:\users\dmxic\source\repos\02 Simple Calculations\04. Concatenate Data\bin\Debug\netcoreapp2.0\04. Concatenate Data.runtimeconfig.json
+c:\users\dmxic\source\repos\02 Simple Calculations\04. Concatenate Data\bin\Debug\netcoreapp2.0\04. Concatenate Data.runtimeconfig.dev.json
+c:\users\dmxic\source\repos\02 Simple Calculations\04. Concatenate Data\bin\Debug\netcoreapp2.0\04. Concatenate Data.dll
+c:\users\dmxic\source\repos\02 Simple Calculations\04. Concatenate Data\bin\Debug\netcoreapp2.0\04. Concatenate Data.pdb
+c:\users\dmxic\source\repos\02 Simple Calculations\04. Concatenate Data\obj\Debug\netcoreapp2.0\04. Concatenate Data.csprojResolveAssemblyReference.cache
+c:\users\dmxic\source\repos\02 Simple Calculations\04. Concatenate Data\obj\Debug\netcoreapp2.0\04. Concatenate Data.csproj.CoreCompileInputs.cache
+c:\users\dmxic\source\repos\02 Simple Calculations\04. Concatenate Data\obj\Debug\netcoreapp2.0\04. Concatenate Data.AssemblyInfoInputs.cache
+c:\users\dmxic\source\repos\02 Simple Calculations\04. Concatenate Data\obj\Debug\netcoreapp2.0\04. Concatenate Data.AssemblyInfo.cs
+c:\users\dmxic\source\repos\02 Simple Calculations\04. Concatenate Data\obj\Debug\netcoreapp2.0\04. Concatenate Data.dll
+c:\users\dmxic\source\repos\02 Simple Calculations\04. Concatenate Data\obj\Debug\netcoreapp2.0\04. Concatenate Data.pdb

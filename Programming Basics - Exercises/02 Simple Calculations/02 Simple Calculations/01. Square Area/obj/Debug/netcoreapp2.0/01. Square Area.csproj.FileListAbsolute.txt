@@ -1,0 +1,11 @@
+c:\users\dmxic\source\repos\02 Simple Calculations\01. Square Area\bin\Debug\netcoreapp2.0\01. Square Area.deps.json
+c:\users\dmxic\source\repos\02 Simple Calculations\01. Square Area\bin\Debug\netcoreapp2.0\01. Square Area.runtimeconfig.json
+c:\users\dmxic\source\repos\02 Simple Calculations\01. Square Area\bin\Debug\netcoreapp2.0\01. Square Area.runtimeconfig.dev.json
+c:\users\dmxic\source\repos\02 Simple Calculations\01. Square Area\bin\Debug\netcoreapp2.0\01. Square Area.dll
+c:\users\dmxic\source\repos\02 Simple Calculations\01. Square Area\bin\Debug\netcoreapp2.0\01. Square Area.pdb
+c:\users\dmxic\source\repos\02 Simple Calculations\01. Square Area\obj\Debug\netcoreapp2.0\01. Square Area.csproj.CoreCompileInputs.cache
+c:\users\dmxic\source\repos\02 Simple Calculations\01. Square Area\obj\Debug\netcoreapp2.0\01. Square Area.AssemblyInfoInputs.cache
+c:\users\dmxic\source\repos\02 Simple Calculations\01. Square Area\obj\Debug\netcoreapp2.0\01. Square Area.AssemblyInfo.cs
+c:\users\dmxic\source\repos\02 Simple Calculations\01. Square Area\obj\Debug\netcoreapp2.0\01. Square Area.dll
+c:\users\dmxic\source\repos\02 Simple Calculations\01. Square Area\obj\Debug\netcoreapp2.0\01. Square Area.pdb
+c:\users\dmxic\source\repos\02 Simple Calculations\01. Square Area\obj\Debug\netcoreapp2.0\01. Square Area.csprojResolveAssemblyReference.cache
