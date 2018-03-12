@@ -1,0 +1,10 @@
+C:\Users\dmxic\Desktop\Software-University\Programming Basics - Exercises\06 Drawing Figures with Loops\Draw Figures w Loops\10. Diamond\bin\Debug\netcoreapp2.0\10. Diamond.deps.json
+C:\Users\dmxic\Desktop\Software-University\Programming Basics - Exercises\06 Drawing Figures with Loops\Draw Figures w Loops\10. Diamond\bin\Debug\netcoreapp2.0\10. Diamond.runtimeconfig.json
+C:\Users\dmxic\Desktop\Software-University\Programming Basics - Exercises\06 Drawing Figures with Loops\Draw Figures w Loops\10. Diamond\bin\Debug\netcoreapp2.0\10. Diamond.runtimeconfig.dev.json
+C:\Users\dmxic\Desktop\Software-University\Programming Basics - Exercises\06 Drawing Figures with Loops\Draw Figures w Loops\10. Diamond\bin\Debug\netcoreapp2.0\10. Diamond.dll
+C:\Users\dmxic\Desktop\Software-University\Programming Basics - Exercises\06 Drawing Figures with Loops\Draw Figures w Loops\10. Diamond\bin\Debug\netcoreapp2.0\10. Diamond.pdb
+C:\Users\dmxic\Desktop\Software-University\Programming Basics - Exercises\06 Drawing Figures with Loops\Draw Figures w Loops\10. Diamond\obj\Debug\netcoreapp2.0\10. Diamond.csproj.CoreCompileInputs.cache
+C:\Users\dmxic\Desktop\Software-University\Programming Basics - Exercises\06 Drawing Figures with Loops\Draw Figures w Loops\10. Diamond\obj\Debug\netcoreapp2.0\10. Diamond.AssemblyInfoInputs.cache
+C:\Users\dmxic\Desktop\Software-University\Programming Basics - Exercises\06 Drawing Figures with Loops\Draw Figures w Loops\10. Diamond\obj\Debug\netcoreapp2.0\10. Diamond.AssemblyInfo.cs
+C:\Users\dmxic\Desktop\Software-University\Programming Basics - Exercises\06 Drawing Figures with Loops\Draw Figures w Loops\10. Diamond\obj\Debug\netcoreapp2.0\10. Diamond.dll
+C:\Users\dmxic\Desktop\Software-University\Programming Basics - Exercises\06 Drawing Figures with Loops\Draw Figures w Loops\10. Diamond\obj\Debug\netcoreapp2.0\10. Diamond.pdb
