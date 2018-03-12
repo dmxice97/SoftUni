@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\dmxic\\Documents\\GitHub\\SoftwareUniversity\\Programming Basics - Exercises\\03 Simple Conditional Statements\\Simple Cond Statements\\01.Excellent Result\\01.Excellent Result.csproj",
+      "projectUniqueName": "C:\\Users\\dmxic\\Documents\\GitHub\\Software-University\\Programming Basics - Exercises\\03 Simple Conditional Statements\\Simple Cond Statements\\01.Excellent Result\\01.Excellent Result.csproj",
       "projectName": "01.Excellent Result",
-      "projectPath": "C:\\Users\\dmxic\\Documents\\GitHub\\SoftwareUniversity\\Programming Basics - Exercises\\03 Simple Conditional Statements\\Simple Cond Statements\\01.Excellent Result\\01.Excellent Result.csproj",
+      "projectPath": "C:\\Users\\dmxic\\Documents\\GitHub\\Software-University\\Programming Basics - Exercises\\03 Simple Conditional Statements\\Simple Cond Statements\\01.Excellent Result\\01.Excellent Result.csproj",
       "packagesPath": "C:\\Users\\dmxic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dmxic\\Documents\\GitHub\\SoftwareUniversity\\Programming Basics - Exercises\\03 Simple Conditional Statements\\Simple Cond Statements\\01.Excellent Result\\obj\\",
+      "outputPath": "C:\\Users\\dmxic\\Documents\\GitHub\\Software-University\\Programming Basics - Exercises\\03 Simple Conditional Statements\\Simple Cond Statements\\01.Excellent Result\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
