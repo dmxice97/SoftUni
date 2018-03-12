@@ -1,0 +1,10 @@
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\07. Fruit Shop\bin\Debug\netcoreapp2.0\07. Fruit Shop.deps.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\07. Fruit Shop\bin\Debug\netcoreapp2.0\07. Fruit Shop.runtimeconfig.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\07. Fruit Shop\bin\Debug\netcoreapp2.0\07. Fruit Shop.runtimeconfig.dev.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\07. Fruit Shop\bin\Debug\netcoreapp2.0\07. Fruit Shop.dll
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\07. Fruit Shop\bin\Debug\netcoreapp2.0\07. Fruit Shop.pdb
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\07. Fruit Shop\obj\Debug\netcoreapp2.0\07. Fruit Shop.csproj.CoreCompileInputs.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\07. Fruit Shop\obj\Debug\netcoreapp2.0\07. Fruit Shop.AssemblyInfoInputs.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\07. Fruit Shop\obj\Debug\netcoreapp2.0\07. Fruit Shop.AssemblyInfo.cs
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\07. Fruit Shop\obj\Debug\netcoreapp2.0\07. Fruit Shop.dll
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\07. Fruit Shop\obj\Debug\netcoreapp2.0\07. Fruit Shop.pdb

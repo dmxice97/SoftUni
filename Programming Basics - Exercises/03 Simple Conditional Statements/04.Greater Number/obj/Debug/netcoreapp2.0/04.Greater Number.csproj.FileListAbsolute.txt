@@ -1,0 +1,11 @@
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\04.Greater Number\bin\Debug\netcoreapp2.0\04.Greater Number.deps.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\04.Greater Number\bin\Debug\netcoreapp2.0\04.Greater Number.runtimeconfig.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\04.Greater Number\bin\Debug\netcoreapp2.0\04.Greater Number.runtimeconfig.dev.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\04.Greater Number\bin\Debug\netcoreapp2.0\04.Greater Number.dll
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\04.Greater Number\bin\Debug\netcoreapp2.0\04.Greater Number.pdb
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\04.Greater Number\obj\Debug\netcoreapp2.0\04.Greater Number.csprojResolveAssemblyReference.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\04.Greater Number\obj\Debug\netcoreapp2.0\04.Greater Number.csproj.CoreCompileInputs.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\04.Greater Number\obj\Debug\netcoreapp2.0\04.Greater Number.AssemblyInfoInputs.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\04.Greater Number\obj\Debug\netcoreapp2.0\04.Greater Number.AssemblyInfo.cs
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\04.Greater Number\obj\Debug\netcoreapp2.0\04.Greater Number.dll
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\04.Greater Number\obj\Debug\netcoreapp2.0\04.Greater Number.pdb

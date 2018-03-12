@@ -1,0 +1,11 @@
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\11.Equal Words\bin\Debug\netcoreapp2.0\11.Equal Words.deps.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\11.Equal Words\bin\Debug\netcoreapp2.0\11.Equal Words.runtimeconfig.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\11.Equal Words\bin\Debug\netcoreapp2.0\11.Equal Words.runtimeconfig.dev.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\11.Equal Words\bin\Debug\netcoreapp2.0\11.Equal Words.dll
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\11.Equal Words\bin\Debug\netcoreapp2.0\11.Equal Words.pdb
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\11.Equal Words\obj\Debug\netcoreapp2.0\11.Equal Words.csprojResolveAssemblyReference.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\11.Equal Words\obj\Debug\netcoreapp2.0\11.Equal Words.csproj.CoreCompileInputs.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\11.Equal Words\obj\Debug\netcoreapp2.0\11.Equal Words.AssemblyInfoInputs.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\11.Equal Words\obj\Debug\netcoreapp2.0\11.Equal Words.AssemblyInfo.cs
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\11.Equal Words\obj\Debug\netcoreapp2.0\11.Equal Words.dll
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\11.Equal Words\obj\Debug\netcoreapp2.0\11.Equal Words.pdb

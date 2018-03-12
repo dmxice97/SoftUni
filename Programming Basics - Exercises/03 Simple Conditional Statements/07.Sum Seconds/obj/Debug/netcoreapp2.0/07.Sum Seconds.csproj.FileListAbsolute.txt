@@ -1,0 +1,10 @@
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\07.Sum Seconds\bin\Debug\netcoreapp2.0\07.Sum Seconds.deps.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\07.Sum Seconds\bin\Debug\netcoreapp2.0\07.Sum Seconds.runtimeconfig.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\07.Sum Seconds\bin\Debug\netcoreapp2.0\07.Sum Seconds.runtimeconfig.dev.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\07.Sum Seconds\bin\Debug\netcoreapp2.0\07.Sum Seconds.dll
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\07.Sum Seconds\bin\Debug\netcoreapp2.0\07.Sum Seconds.pdb
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\07.Sum Seconds\obj\Debug\netcoreapp2.0\07.Sum Seconds.csproj.CoreCompileInputs.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\07.Sum Seconds\obj\Debug\netcoreapp2.0\07.Sum Seconds.AssemblyInfoInputs.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\07.Sum Seconds\obj\Debug\netcoreapp2.0\07.Sum Seconds.AssemblyInfo.cs
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\07.Sum Seconds\obj\Debug\netcoreapp2.0\07.Sum Seconds.dll
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\07.Sum Seconds\obj\Debug\netcoreapp2.0\07.Sum Seconds.pdb

@@ -1,0 +1,3 @@
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\16.Numbs 0-100text\obj\Debug\netcoreapp2.0\16.Numbs 0-100text.csproj.CoreCompileInputs.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\16.Numbs 0-100text\obj\Debug\netcoreapp2.0\16.Numbs 0-100text.AssemblyInfoInputs.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\16.Numbs 0-100text\obj\Debug\netcoreapp2.0\16.Numbs 0-100text.AssemblyInfo.cs

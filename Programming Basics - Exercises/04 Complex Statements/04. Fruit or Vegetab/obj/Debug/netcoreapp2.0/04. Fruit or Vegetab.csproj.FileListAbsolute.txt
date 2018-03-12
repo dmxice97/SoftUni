@@ -1,0 +1,10 @@
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\04. Fruit or Vegetab\bin\Debug\netcoreapp2.0\04. Fruit or Vegetab.deps.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\04. Fruit or Vegetab\bin\Debug\netcoreapp2.0\04. Fruit or Vegetab.runtimeconfig.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\04. Fruit or Vegetab\bin\Debug\netcoreapp2.0\04. Fruit or Vegetab.runtimeconfig.dev.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\04. Fruit or Vegetab\bin\Debug\netcoreapp2.0\04. Fruit or Vegetab.dll
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\04. Fruit or Vegetab\bin\Debug\netcoreapp2.0\04. Fruit or Vegetab.pdb
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\04. Fruit or Vegetab\obj\Debug\netcoreapp2.0\04. Fruit or Vegetab.csproj.CoreCompileInputs.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\04. Fruit or Vegetab\obj\Debug\netcoreapp2.0\04. Fruit or Vegetab.AssemblyInfoInputs.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\04. Fruit or Vegetab\obj\Debug\netcoreapp2.0\04. Fruit or Vegetab.AssemblyInfo.cs
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\04. Fruit or Vegetab\obj\Debug\netcoreapp2.0\04. Fruit or Vegetab.dll
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\04. Fruit or Vegetab\obj\Debug\netcoreapp2.0\04. Fruit or Vegetab.pdb

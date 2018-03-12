@@ -1,0 +1,11 @@
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\05. Invalid Number\bin\Debug\netcoreapp2.0\05. Invalid Number.deps.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\05. Invalid Number\bin\Debug\netcoreapp2.0\05. Invalid Number.runtimeconfig.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\05. Invalid Number\bin\Debug\netcoreapp2.0\05. Invalid Number.runtimeconfig.dev.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\05. Invalid Number\bin\Debug\netcoreapp2.0\05. Invalid Number.dll
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\05. Invalid Number\bin\Debug\netcoreapp2.0\05. Invalid Number.pdb
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\05. Invalid Number\obj\Debug\netcoreapp2.0\05. Invalid Number.csprojResolveAssemblyReference.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\05. Invalid Number\obj\Debug\netcoreapp2.0\05. Invalid Number.csproj.CoreCompileInputs.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\05. Invalid Number\obj\Debug\netcoreapp2.0\05. Invalid Number.AssemblyInfoInputs.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\05. Invalid Number\obj\Debug\netcoreapp2.0\05. Invalid Number.AssemblyInfo.cs
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\05. Invalid Number\obj\Debug\netcoreapp2.0\05. Invalid Number.dll
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\05. Invalid Number\obj\Debug\netcoreapp2.0\05. Invalid Number.pdb

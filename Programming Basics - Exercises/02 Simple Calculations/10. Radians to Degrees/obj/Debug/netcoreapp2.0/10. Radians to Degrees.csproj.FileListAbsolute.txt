@@ -1,0 +1,10 @@
+c:\users\dmxic\source\repos\02 Simple Calculations\10. Radians to Degrees\bin\Debug\netcoreapp2.0\10. Radians to Degrees.deps.json
+c:\users\dmxic\source\repos\02 Simple Calculations\10. Radians to Degrees\bin\Debug\netcoreapp2.0\10. Radians to Degrees.runtimeconfig.json
+c:\users\dmxic\source\repos\02 Simple Calculations\10. Radians to Degrees\bin\Debug\netcoreapp2.0\10. Radians to Degrees.runtimeconfig.dev.json
+c:\users\dmxic\source\repos\02 Simple Calculations\10. Radians to Degrees\bin\Debug\netcoreapp2.0\10. Radians to Degrees.dll
+c:\users\dmxic\source\repos\02 Simple Calculations\10. Radians to Degrees\bin\Debug\netcoreapp2.0\10. Radians to Degrees.pdb
+c:\users\dmxic\source\repos\02 Simple Calculations\10. Radians to Degrees\obj\Debug\netcoreapp2.0\10. Radians to Degrees.csproj.CoreCompileInputs.cache
+c:\users\dmxic\source\repos\02 Simple Calculations\10. Radians to Degrees\obj\Debug\netcoreapp2.0\10. Radians to Degrees.AssemblyInfoInputs.cache
+c:\users\dmxic\source\repos\02 Simple Calculations\10. Radians to Degrees\obj\Debug\netcoreapp2.0\10. Radians to Degrees.AssemblyInfo.cs
+c:\users\dmxic\source\repos\02 Simple Calculations\10. Radians to Degrees\obj\Debug\netcoreapp2.0\10. Radians to Degrees.dll
+c:\users\dmxic\source\repos\02 Simple Calculations\10. Radians to Degrees\obj\Debug\netcoreapp2.0\10. Radians to Degrees.pdb

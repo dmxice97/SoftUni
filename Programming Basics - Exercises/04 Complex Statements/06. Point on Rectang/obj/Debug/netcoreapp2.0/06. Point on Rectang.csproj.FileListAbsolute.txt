@@ -1,0 +1,10 @@
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\06. Point on Rectang\bin\Debug\netcoreapp2.0\06. Point on Rectang.deps.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\06. Point on Rectang\bin\Debug\netcoreapp2.0\06. Point on Rectang.runtimeconfig.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\06. Point on Rectang\bin\Debug\netcoreapp2.0\06. Point on Rectang.runtimeconfig.dev.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\06. Point on Rectang\bin\Debug\netcoreapp2.0\06. Point on Rectang.dll
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\06. Point on Rectang\bin\Debug\netcoreapp2.0\06. Point on Rectang.pdb
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\06. Point on Rectang\obj\Debug\netcoreapp2.0\06. Point on Rectang.csproj.CoreCompileInputs.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\06. Point on Rectang\obj\Debug\netcoreapp2.0\06. Point on Rectang.AssemblyInfoInputs.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\06. Point on Rectang\obj\Debug\netcoreapp2.0\06. Point on Rectang.AssemblyInfo.cs
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\06. Point on Rectang\obj\Debug\netcoreapp2.0\06. Point on Rectang.dll
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\06. Point on Rectang\obj\Debug\netcoreapp2.0\06. Point on Rectang.pdb

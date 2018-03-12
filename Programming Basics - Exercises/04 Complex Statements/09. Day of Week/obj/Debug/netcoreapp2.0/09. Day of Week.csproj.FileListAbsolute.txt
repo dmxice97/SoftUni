@@ -1,0 +1,4 @@
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\09. Day of Week\obj\Debug\netcoreapp2.0\09. Day of Week.csproj.CoreCompileInputs.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\09. Day of Week\obj\Debug\netcoreapp2.0\09. Day of Week.AssemblyInfoInputs.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\09. Day of Week\obj\Debug\netcoreapp2.0\09. Day of Week.AssemblyInfo.cs
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\09. Day of Week\obj\Debug\netcoreapp2.0\09. Day of Week.csprojResolveAssemblyReference.cache

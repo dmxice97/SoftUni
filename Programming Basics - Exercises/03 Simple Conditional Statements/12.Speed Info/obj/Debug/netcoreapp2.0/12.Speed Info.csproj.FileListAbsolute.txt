@@ -1,0 +1,10 @@
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\12.Speed Info\bin\Debug\netcoreapp2.0\12.Speed Info.deps.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\12.Speed Info\bin\Debug\netcoreapp2.0\12.Speed Info.runtimeconfig.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\12.Speed Info\bin\Debug\netcoreapp2.0\12.Speed Info.runtimeconfig.dev.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\12.Speed Info\bin\Debug\netcoreapp2.0\12.Speed Info.dll
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\12.Speed Info\bin\Debug\netcoreapp2.0\12.Speed Info.pdb
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\12.Speed Info\obj\Debug\netcoreapp2.0\12.Speed Info.csproj.CoreCompileInputs.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\12.Speed Info\obj\Debug\netcoreapp2.0\12.Speed Info.AssemblyInfoInputs.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\12.Speed Info\obj\Debug\netcoreapp2.0\12.Speed Info.AssemblyInfo.cs
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\12.Speed Info\obj\Debug\netcoreapp2.0\12.Speed Info.dll
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\12.Speed Info\obj\Debug\netcoreapp2.0\12.Speed Info.pdb

@@ -1,0 +1,10 @@
+c:\users\dmxic\source\repos\02 Simple Calculations\05. Trapeziod Area\bin\Debug\netcoreapp2.0\05. Trapeziod Area.deps.json
+c:\users\dmxic\source\repos\02 Simple Calculations\05. Trapeziod Area\bin\Debug\netcoreapp2.0\05. Trapeziod Area.runtimeconfig.json
+c:\users\dmxic\source\repos\02 Simple Calculations\05. Trapeziod Area\bin\Debug\netcoreapp2.0\05. Trapeziod Area.runtimeconfig.dev.json
+c:\users\dmxic\source\repos\02 Simple Calculations\05. Trapeziod Area\bin\Debug\netcoreapp2.0\05. Trapeziod Area.dll
+c:\users\dmxic\source\repos\02 Simple Calculations\05. Trapeziod Area\bin\Debug\netcoreapp2.0\05. Trapeziod Area.pdb
+c:\users\dmxic\source\repos\02 Simple Calculations\05. Trapeziod Area\obj\Debug\netcoreapp2.0\05. Trapeziod Area.csproj.CoreCompileInputs.cache
+c:\users\dmxic\source\repos\02 Simple Calculations\05. Trapeziod Area\obj\Debug\netcoreapp2.0\05. Trapeziod Area.AssemblyInfoInputs.cache
+c:\users\dmxic\source\repos\02 Simple Calculations\05. Trapeziod Area\obj\Debug\netcoreapp2.0\05. Trapeziod Area.AssemblyInfo.cs
+c:\users\dmxic\source\repos\02 Simple Calculations\05. Trapeziod Area\obj\Debug\netcoreapp2.0\05. Trapeziod Area.dll
+c:\users\dmxic\source\repos\02 Simple Calculations\05. Trapeziod Area\obj\Debug\netcoreapp2.0\05. Trapeziod Area.pdb

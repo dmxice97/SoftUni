@@ -1,0 +1,10 @@
+c:\users\dmxic\source\repos\02 Simple Calculations\08. Triangle Area\bin\Debug\netcoreapp2.0\08. Triangle Area.deps.json
+c:\users\dmxic\source\repos\02 Simple Calculations\08. Triangle Area\bin\Debug\netcoreapp2.0\08. Triangle Area.runtimeconfig.json
+c:\users\dmxic\source\repos\02 Simple Calculations\08. Triangle Area\bin\Debug\netcoreapp2.0\08. Triangle Area.runtimeconfig.dev.json
+c:\users\dmxic\source\repos\02 Simple Calculations\08. Triangle Area\bin\Debug\netcoreapp2.0\08. Triangle Area.dll
+c:\users\dmxic\source\repos\02 Simple Calculations\08. Triangle Area\bin\Debug\netcoreapp2.0\08. Triangle Area.pdb
+c:\users\dmxic\source\repos\02 Simple Calculations\08. Triangle Area\obj\Debug\netcoreapp2.0\08. Triangle Area.csproj.CoreCompileInputs.cache
+c:\users\dmxic\source\repos\02 Simple Calculations\08. Triangle Area\obj\Debug\netcoreapp2.0\08. Triangle Area.AssemblyInfoInputs.cache
+c:\users\dmxic\source\repos\02 Simple Calculations\08. Triangle Area\obj\Debug\netcoreapp2.0\08. Triangle Area.AssemblyInfo.cs
+c:\users\dmxic\source\repos\02 Simple Calculations\08. Triangle Area\obj\Debug\netcoreapp2.0\08. Triangle Area.dll
+c:\users\dmxic\source\repos\02 Simple Calculations\08. Triangle Area\obj\Debug\netcoreapp2.0\08. Triangle Area.pdb

@@ -1,0 +1,10 @@
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\05.Number0-9 toText\bin\Debug\netcoreapp2.0\05.Number0-9 toText.deps.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\05.Number0-9 toText\bin\Debug\netcoreapp2.0\05.Number0-9 toText.runtimeconfig.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\05.Number0-9 toText\bin\Debug\netcoreapp2.0\05.Number0-9 toText.runtimeconfig.dev.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\05.Number0-9 toText\bin\Debug\netcoreapp2.0\05.Number0-9 toText.dll
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\05.Number0-9 toText\bin\Debug\netcoreapp2.0\05.Number0-9 toText.pdb
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\05.Number0-9 toText\obj\Debug\netcoreapp2.0\05.Number0-9 toText.csproj.CoreCompileInputs.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\05.Number0-9 toText\obj\Debug\netcoreapp2.0\05.Number0-9 toText.AssemblyInfoInputs.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\05.Number0-9 toText\obj\Debug\netcoreapp2.0\05.Number0-9 toText.AssemblyInfo.cs
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\05.Number0-9 toText\obj\Debug\netcoreapp2.0\05.Number0-9 toText.dll
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\05.Number0-9 toText\obj\Debug\netcoreapp2.0\05.Number0-9 toText.pdb

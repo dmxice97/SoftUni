@@ -1,0 +1,10 @@
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\02. Small Shop\bin\Debug\netcoreapp2.0\02. Small Shop.deps.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\02. Small Shop\bin\Debug\netcoreapp2.0\02. Small Shop.runtimeconfig.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\02. Small Shop\bin\Debug\netcoreapp2.0\02. Small Shop.runtimeconfig.dev.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\02. Small Shop\bin\Debug\netcoreapp2.0\02. Small Shop.dll
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\02. Small Shop\bin\Debug\netcoreapp2.0\02. Small Shop.pdb
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\02. Small Shop\obj\Debug\netcoreapp2.0\02. Small Shop.csproj.CoreCompileInputs.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\02. Small Shop\obj\Debug\netcoreapp2.0\02. Small Shop.AssemblyInfoInputs.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\02. Small Shop\obj\Debug\netcoreapp2.0\02. Small Shop.AssemblyInfo.cs
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\02. Small Shop\obj\Debug\netcoreapp2.0\02. Small Shop.dll
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\02. Small Shop\obj\Debug\netcoreapp2.0\02. Small Shop.pdb

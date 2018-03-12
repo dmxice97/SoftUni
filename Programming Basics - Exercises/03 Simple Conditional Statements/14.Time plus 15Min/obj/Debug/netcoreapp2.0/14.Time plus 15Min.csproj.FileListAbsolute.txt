@@ -1,0 +1,10 @@
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\14.Time plus 15Min\bin\Debug\netcoreapp2.0\14.Time plus 15Min.deps.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\14.Time plus 15Min\bin\Debug\netcoreapp2.0\14.Time plus 15Min.runtimeconfig.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\14.Time plus 15Min\bin\Debug\netcoreapp2.0\14.Time plus 15Min.runtimeconfig.dev.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\14.Time plus 15Min\bin\Debug\netcoreapp2.0\14.Time plus 15Min.dll
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\14.Time plus 15Min\bin\Debug\netcoreapp2.0\14.Time plus 15Min.pdb
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\14.Time plus 15Min\obj\Debug\netcoreapp2.0\14.Time plus 15Min.csproj.CoreCompileInputs.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\14.Time plus 15Min\obj\Debug\netcoreapp2.0\14.Time plus 15Min.AssemblyInfoInputs.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\14.Time plus 15Min\obj\Debug\netcoreapp2.0\14.Time plus 15Min.AssemblyInfo.cs
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\14.Time plus 15Min\obj\Debug\netcoreapp2.0\14.Time plus 15Min.dll
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\14.Time plus 15Min\obj\Debug\netcoreapp2.0\14.Time plus 15Min.pdb

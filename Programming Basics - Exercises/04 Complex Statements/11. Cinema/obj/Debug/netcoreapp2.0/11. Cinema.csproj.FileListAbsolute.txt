@@ -1,0 +1,4 @@
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\11. Cinema\obj\Debug\netcoreapp2.0\11. Cinema.csprojResolveAssemblyReference.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\11. Cinema\obj\Debug\netcoreapp2.0\11. Cinema.csproj.CoreCompileInputs.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\11. Cinema\obj\Debug\netcoreapp2.0\11. Cinema.AssemblyInfoInputs.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\11. Cinema\obj\Debug\netcoreapp2.0\11. Cinema.AssemblyInfo.cs

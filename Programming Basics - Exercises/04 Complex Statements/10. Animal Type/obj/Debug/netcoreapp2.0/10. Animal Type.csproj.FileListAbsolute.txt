@@ -1,0 +1,11 @@
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\10. Animal Type\bin\Debug\netcoreapp2.0\10. Animal Type.deps.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\10. Animal Type\bin\Debug\netcoreapp2.0\10. Animal Type.runtimeconfig.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\10. Animal Type\bin\Debug\netcoreapp2.0\10. Animal Type.runtimeconfig.dev.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\10. Animal Type\bin\Debug\netcoreapp2.0\10. Animal Type.dll
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\10. Animal Type\bin\Debug\netcoreapp2.0\10. Animal Type.pdb
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\10. Animal Type\obj\Debug\netcoreapp2.0\10. Animal Type.csproj.CoreCompileInputs.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\10. Animal Type\obj\Debug\netcoreapp2.0\10. Animal Type.AssemblyInfoInputs.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\10. Animal Type\obj\Debug\netcoreapp2.0\10. Animal Type.AssemblyInfo.cs
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\10. Animal Type\obj\Debug\netcoreapp2.0\10. Animal Type.dll
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\10. Animal Type\obj\Debug\netcoreapp2.0\10. Animal Type.pdb
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\04 Complex Statements\10. Animal Type\obj\Debug\netcoreapp2.0\10. Animal Type.csprojResolveAssemblyReference.cache

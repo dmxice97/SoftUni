@@ -1,0 +1,11 @@
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\06. Bonus Score\bin\Debug\netcoreapp2.0\06. Bonus Score.deps.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\06. Bonus Score\bin\Debug\netcoreapp2.0\06. Bonus Score.runtimeconfig.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\06. Bonus Score\bin\Debug\netcoreapp2.0\06. Bonus Score.runtimeconfig.dev.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\06. Bonus Score\bin\Debug\netcoreapp2.0\06. Bonus Score.dll
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\06. Bonus Score\bin\Debug\netcoreapp2.0\06. Bonus Score.pdb
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\06. Bonus Score\obj\Debug\netcoreapp2.0\06. Bonus Score.csprojResolveAssemblyReference.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\06. Bonus Score\obj\Debug\netcoreapp2.0\06. Bonus Score.csproj.CoreCompileInputs.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\06. Bonus Score\obj\Debug\netcoreapp2.0\06. Bonus Score.AssemblyInfoInputs.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\06. Bonus Score\obj\Debug\netcoreapp2.0\06. Bonus Score.AssemblyInfo.cs
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\06. Bonus Score\obj\Debug\netcoreapp2.0\06. Bonus Score.dll
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\06. Bonus Score\obj\Debug\netcoreapp2.0\06. Bonus Score.pdb

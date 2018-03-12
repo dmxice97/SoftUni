@@ -1,0 +1,11 @@
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\01 First Steps in Coding\First Steps in Coding\ex01 Hello SoftUni\bin\Debug\netcoreapp2.0\01. Hello SoftUni.deps.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\01 First Steps in Coding\First Steps in Coding\ex01 Hello SoftUni\bin\Debug\netcoreapp2.0\01. Hello SoftUni.runtimeconfig.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\01 First Steps in Coding\First Steps in Coding\ex01 Hello SoftUni\bin\Debug\netcoreapp2.0\01. Hello SoftUni.runtimeconfig.dev.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\01 First Steps in Coding\First Steps in Coding\ex01 Hello SoftUni\bin\Debug\netcoreapp2.0\01. Hello SoftUni.dll
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\01 First Steps in Coding\First Steps in Coding\ex01 Hello SoftUni\bin\Debug\netcoreapp2.0\01. Hello SoftUni.pdb
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\01 First Steps in Coding\First Steps in Coding\ex01 Hello SoftUni\obj\Debug\netcoreapp2.0\01. Hello SoftUni.csprojResolveAssemblyReference.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\01 First Steps in Coding\First Steps in Coding\ex01 Hello SoftUni\obj\Debug\netcoreapp2.0\01. Hello SoftUni.csproj.CoreCompileInputs.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\01 First Steps in Coding\First Steps in Coding\ex01 Hello SoftUni\obj\Debug\netcoreapp2.0\01. Hello SoftUni.AssemblyInfoInputs.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\01 First Steps in Coding\First Steps in Coding\ex01 Hello SoftUni\obj\Debug\netcoreapp2.0\01. Hello SoftUni.AssemblyInfo.cs
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\01 First Steps in Coding\First Steps in Coding\ex01 Hello SoftUni\obj\Debug\netcoreapp2.0\01. Hello SoftUni.dll
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\01 First Steps in Coding\First Steps in Coding\ex01 Hello SoftUni\obj\Debug\netcoreapp2.0\01. Hello SoftUni.pdb

@@ -1,0 +1,10 @@
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\13.Area of Figures\bin\Debug\netcoreapp2.0\13.Area of Figures.deps.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\13.Area of Figures\bin\Debug\netcoreapp2.0\13.Area of Figures.runtimeconfig.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\13.Area of Figures\bin\Debug\netcoreapp2.0\13.Area of Figures.runtimeconfig.dev.json
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\13.Area of Figures\bin\Debug\netcoreapp2.0\13.Area of Figures.dll
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\13.Area of Figures\bin\Debug\netcoreapp2.0\13.Area of Figures.pdb
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\13.Area of Figures\obj\Debug\netcoreapp2.0\13.Area of Figures.csproj.CoreCompileInputs.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\13.Area of Figures\obj\Debug\netcoreapp2.0\13.Area of Figures.AssemblyInfoInputs.cache
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\13.Area of Figures\obj\Debug\netcoreapp2.0\13.Area of Figures.AssemblyInfo.cs
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\13.Area of Figures\obj\Debug\netcoreapp2.0\13.Area of Figures.dll
+C:\Users\dmxic\Documents\GitHub\SoftwareUniversity\Programming Basics - Exercises\03 Simple Conditional Statements\Simple Cond Statements\13.Area of Figures\obj\Debug\netcoreapp2.0\13.Area of Figures.pdb

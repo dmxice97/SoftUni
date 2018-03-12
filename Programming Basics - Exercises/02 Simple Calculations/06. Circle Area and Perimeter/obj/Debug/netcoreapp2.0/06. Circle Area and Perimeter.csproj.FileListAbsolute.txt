@@ -1,0 +1,11 @@
+c:\users\dmxic\source\repos\02 Simple Calculations\06. Circle Area and Perimeter\bin\Debug\netcoreapp2.0\06. Circle Area and Perimeter.deps.json
+c:\users\dmxic\source\repos\02 Simple Calculations\06. Circle Area and Perimeter\bin\Debug\netcoreapp2.0\06. Circle Area and Perimeter.runtimeconfig.json
+c:\users\dmxic\source\repos\02 Simple Calculations\06. Circle Area and Perimeter\bin\Debug\netcoreapp2.0\06. Circle Area and Perimeter.runtimeconfig.dev.json
+c:\users\dmxic\source\repos\02 Simple Calculations\06. Circle Area and Perimeter\bin\Debug\netcoreapp2.0\06. Circle Area and Perimeter.dll
+c:\users\dmxic\source\repos\02 Simple Calculations\06. Circle Area and Perimeter\bin\Debug\netcoreapp2.0\06. Circle Area and Perimeter.pdb
+c:\users\dmxic\source\repos\02 Simple Calculations\06. Circle Area and Perimeter\obj\Debug\netcoreapp2.0\06. Circle Area and Perimeter.csprojResolveAssemblyReference.cache
+c:\users\dmxic\source\repos\02 Simple Calculations\06. Circle Area and Perimeter\obj\Debug\netcoreapp2.0\06. Circle Area and Perimeter.csproj.CoreCompileInputs.cache
+c:\users\dmxic\source\repos\02 Simple Calculations\06. Circle Area and Perimeter\obj\Debug\netcoreapp2.0\06. Circle Area and Perimeter.AssemblyInfoInputs.cache
+c:\users\dmxic\source\repos\02 Simple Calculations\06. Circle Area and Perimeter\obj\Debug\netcoreapp2.0\06. Circle Area and Perimeter.AssemblyInfo.cs
+c:\users\dmxic\source\repos\02 Simple Calculations\06. Circle Area and Perimeter\obj\Debug\netcoreapp2.0\06. Circle Area and Perimeter.dll
+c:\users\dmxic\source\repos\02 Simple Calculations\06. Circle Area and Perimeter\obj\Debug\netcoreapp2.0\06. Circle Area and Perimeter.pdb

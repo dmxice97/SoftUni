@@ -1,0 +1,10 @@
+c:\users\dmxic\source\repos\02 Simple Calculations\12. Currency Converter\bin\Debug\netcoreapp2.0\12. Currency Converter.deps.json
+c:\users\dmxic\source\repos\02 Simple Calculations\12. Currency Converter\bin\Debug\netcoreapp2.0\12. Currency Converter.runtimeconfig.json
+c:\users\dmxic\source\repos\02 Simple Calculations\12. Currency Converter\bin\Debug\netcoreapp2.0\12. Currency Converter.runtimeconfig.dev.json
+c:\users\dmxic\source\repos\02 Simple Calculations\12. Currency Converter\bin\Debug\netcoreapp2.0\12. Currency Converter.dll
+c:\users\dmxic\source\repos\02 Simple Calculations\12. Currency Converter\bin\Debug\netcoreapp2.0\12. Currency Converter.pdb
+c:\users\dmxic\source\repos\02 Simple Calculations\12. Currency Converter\obj\Debug\netcoreapp2.0\12. Currency Converter.csproj.CoreCompileInputs.cache
+c:\users\dmxic\source\repos\02 Simple Calculations\12. Currency Converter\obj\Debug\netcoreapp2.0\12. Currency Converter.AssemblyInfoInputs.cache
+c:\users\dmxic\source\repos\02 Simple Calculations\12. Currency Converter\obj\Debug\netcoreapp2.0\12. Currency Converter.AssemblyInfo.cs
+c:\users\dmxic\source\repos\02 Simple Calculations\12. Currency Converter\obj\Debug\netcoreapp2.0\12. Currency Converter.dll
+c:\users\dmxic\source\repos\02 Simple Calculations\12. Currency Converter\obj\Debug\netcoreapp2.0\12. Currency Converter.pdb
