@@ -1,0 +1,10 @@
+C:\Users\dmxic\Desktop\Programming Fundamentals C#\Conditional Statements and Loops - Lab\01. Passed\bin\Debug\netcoreapp2.0\01. Passed.deps.json
+C:\Users\dmxic\Desktop\Programming Fundamentals C#\Conditional Statements and Loops - Lab\01. Passed\bin\Debug\netcoreapp2.0\01. Passed.runtimeconfig.json
+C:\Users\dmxic\Desktop\Programming Fundamentals C#\Conditional Statements and Loops - Lab\01. Passed\bin\Debug\netcoreapp2.0\01. Passed.runtimeconfig.dev.json
+C:\Users\dmxic\Desktop\Programming Fundamentals C#\Conditional Statements and Loops - Lab\01. Passed\bin\Debug\netcoreapp2.0\01. Passed.dll
+C:\Users\dmxic\Desktop\Programming Fundamentals C#\Conditional Statements and Loops - Lab\01. Passed\bin\Debug\netcoreapp2.0\01. Passed.pdb
+C:\Users\dmxic\Desktop\Programming Fundamentals C#\Conditional Statements and Loops - Lab\01. Passed\obj\Debug\netcoreapp2.0\01. Passed.csproj.CoreCompileInputs.cache
+C:\Users\dmxic\Desktop\Programming Fundamentals C#\Conditional Statements and Loops - Lab\01. Passed\obj\Debug\netcoreapp2.0\01. Passed.AssemblyInfoInputs.cache
+C:\Users\dmxic\Desktop\Programming Fundamentals C#\Conditional Statements and Loops - Lab\01. Passed\obj\Debug\netcoreapp2.0\01. Passed.AssemblyInfo.cs
+C:\Users\dmxic\Desktop\Programming Fundamentals C#\Conditional Statements and Loops - Lab\01. Passed\obj\Debug\netcoreapp2.0\01. Passed.dll
+C:\Users\dmxic\Desktop\Programming Fundamentals C#\Conditional Statements and Loops - Lab\01. Passed\obj\Debug\netcoreapp2.0\01. Passed.pdb
