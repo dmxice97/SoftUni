@@ -1,0 +1,11 @@
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\02 Conditional Statements and Loops - Exercises\05. Word in Plural\bin\Debug\netcoreapp2.0\05. Word in Plural.deps.json
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\02 Conditional Statements and Loops - Exercises\05. Word in Plural\bin\Debug\netcoreapp2.0\05. Word in Plural.runtimeconfig.json
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\02 Conditional Statements and Loops - Exercises\05. Word in Plural\bin\Debug\netcoreapp2.0\05. Word in Plural.runtimeconfig.dev.json
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\02 Conditional Statements and Loops - Exercises\05. Word in Plural\bin\Debug\netcoreapp2.0\05. Word in Plural.dll
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\02 Conditional Statements and Loops - Exercises\05. Word in Plural\bin\Debug\netcoreapp2.0\05. Word in Plural.pdb
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\02 Conditional Statements and Loops - Exercises\05. Word in Plural\obj\Debug\netcoreapp2.0\05. Word in Plural.csprojResolveAssemblyReference.cache
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\02 Conditional Statements and Loops - Exercises\05. Word in Plural\obj\Debug\netcoreapp2.0\05. Word in Plural.csproj.CoreCompileInputs.cache
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\02 Conditional Statements and Loops - Exercises\05. Word in Plural\obj\Debug\netcoreapp2.0\05. Word in Plural.AssemblyInfoInputs.cache
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\02 Conditional Statements and Loops - Exercises\05. Word in Plural\obj\Debug\netcoreapp2.0\05. Word in Plural.AssemblyInfo.cs
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\02 Conditional Statements and Loops - Exercises\05. Word in Plural\obj\Debug\netcoreapp2.0\05. Word in Plural.dll
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\02 Conditional Statements and Loops - Exercises\05. Word in Plural\obj\Debug\netcoreapp2.0\05. Word in Plural.pdb
