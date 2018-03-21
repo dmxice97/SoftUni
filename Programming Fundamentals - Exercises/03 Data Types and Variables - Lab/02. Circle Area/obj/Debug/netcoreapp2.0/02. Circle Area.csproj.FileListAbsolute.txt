@@ -1,0 +1,11 @@
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Data Types and Variables - Lab\02. Circle Area\bin\Debug\netcoreapp2.0\02. Circle Area.deps.json
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Data Types and Variables - Lab\02. Circle Area\bin\Debug\netcoreapp2.0\02. Circle Area.runtimeconfig.json
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Data Types and Variables - Lab\02. Circle Area\bin\Debug\netcoreapp2.0\02. Circle Area.runtimeconfig.dev.json
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Data Types and Variables - Lab\02. Circle Area\bin\Debug\netcoreapp2.0\02. Circle Area.dll
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Data Types and Variables - Lab\02. Circle Area\bin\Debug\netcoreapp2.0\02. Circle Area.pdb
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Data Types and Variables - Lab\02. Circle Area\obj\Debug\netcoreapp2.0\02. Circle Area.csprojResolveAssemblyReference.cache
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Data Types and Variables - Lab\02. Circle Area\obj\Debug\netcoreapp2.0\02. Circle Area.csproj.CoreCompileInputs.cache
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Data Types and Variables - Lab\02. Circle Area\obj\Debug\netcoreapp2.0\02. Circle Area.AssemblyInfoInputs.cache
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Data Types and Variables - Lab\02. Circle Area\obj\Debug\netcoreapp2.0\02. Circle Area.AssemblyInfo.cs
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Data Types and Variables - Lab\02. Circle Area\obj\Debug\netcoreapp2.0\02. Circle Area.dll
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Data Types and Variables - Lab\02. Circle Area\obj\Debug\netcoreapp2.0\02. Circle Area.pdb

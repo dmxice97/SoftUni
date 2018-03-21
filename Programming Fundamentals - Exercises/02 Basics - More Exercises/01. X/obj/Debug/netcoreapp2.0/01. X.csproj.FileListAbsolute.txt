@@ -1,0 +1,11 @@
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\02 Basics - More Exercises\01. X\bin\Debug\netcoreapp2.0\01. X.deps.json
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\02 Basics - More Exercises\01. X\bin\Debug\netcoreapp2.0\01. X.runtimeconfig.json
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\02 Basics - More Exercises\01. X\bin\Debug\netcoreapp2.0\01. X.runtimeconfig.dev.json
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\02 Basics - More Exercises\01. X\bin\Debug\netcoreapp2.0\01. X.dll
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\02 Basics - More Exercises\01. X\bin\Debug\netcoreapp2.0\01. X.pdb
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\02 Basics - More Exercises\01. X\obj\Debug\netcoreapp2.0\01. X.csprojResolveAssemblyReference.cache
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\02 Basics - More Exercises\01. X\obj\Debug\netcoreapp2.0\01. X.csproj.CoreCompileInputs.cache
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\02 Basics - More Exercises\01. X\obj\Debug\netcoreapp2.0\01. X.AssemblyInfoInputs.cache
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\02 Basics - More Exercises\01. X\obj\Debug\netcoreapp2.0\01. X.AssemblyInfo.cs
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\02 Basics - More Exercises\01. X\obj\Debug\netcoreapp2.0\01. X.dll
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\02 Basics - More Exercises\01. X\obj\Debug\netcoreapp2.0\01. X.pdb

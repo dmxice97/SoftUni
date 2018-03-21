@@ -1,0 +1,11 @@
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\03 Data Types and Variables - Lab\06. Triples of Letters\bin\Debug\netcoreapp2.0\06. Triples of Letters.deps.json
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\03 Data Types and Variables - Lab\06. Triples of Letters\bin\Debug\netcoreapp2.0\06. Triples of Letters.runtimeconfig.json
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\03 Data Types and Variables - Lab\06. Triples of Letters\bin\Debug\netcoreapp2.0\06. Triples of Letters.runtimeconfig.dev.json
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\03 Data Types and Variables - Lab\06. Triples of Letters\bin\Debug\netcoreapp2.0\06. Triples of Letters.dll
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\03 Data Types and Variables - Lab\06. Triples of Letters\bin\Debug\netcoreapp2.0\06. Triples of Letters.pdb
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\03 Data Types and Variables - Lab\06. Triples of Letters\obj\Debug\netcoreapp2.0\06. Triples of Letters.csprojResolveAssemblyReference.cache
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\03 Data Types and Variables - Lab\06. Triples of Letters\obj\Debug\netcoreapp2.0\06. Triples of Letters.csproj.CoreCompileInputs.cache
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\03 Data Types and Variables - Lab\06. Triples of Letters\obj\Debug\netcoreapp2.0\06. Triples of Letters.AssemblyInfoInputs.cache
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\03 Data Types and Variables - Lab\06. Triples of Letters\obj\Debug\netcoreapp2.0\06. Triples of Letters.AssemblyInfo.cs
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\03 Data Types and Variables - Lab\06. Triples of Letters\obj\Debug\netcoreapp2.0\06. Triples of Letters.dll
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\03 Data Types and Variables - Lab\06. Triples of Letters\obj\Debug\netcoreapp2.0\06. Triples of Letters.pdb
