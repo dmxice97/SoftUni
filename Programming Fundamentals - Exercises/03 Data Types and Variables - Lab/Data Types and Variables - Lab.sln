@@ -13,11 +13,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Elevator", "04. Elevato
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Special Numbers", "05. Special Numbers\05. Special Numbers.csproj", "{210A7487-3F28-41C1-981E-24BB629F1349}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Triples of Letters", "06. Triples of Letters\06. Triples of Letters.csproj", "{32F33F6E-077E-42B1-92D8-90C809AC098C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Triples of Letters", "06. Triples of Letters\06. Triples of Letters.csproj", "{32F33F6E-077E-42B1-92D8-90C809AC098C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Greeting", "07. Greeting\07. Greeting.csproj", "{66283B46-ADB4-4BC6-9709-AA695BBBC473}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Greeting", "07. Greeting\07. Greeting.csproj", "{66283B46-ADB4-4BC6-9709-AA695BBBC473}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Refactor Volume of Pyramid", "08. Refactor Volume of Pyramid\08. Refactor Volume of Pyramid.csproj", "{A3AEA0AF-28E3-4E9C-8D32-BBAB87F49DB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08. Refactor Volume of Pyramid", "08. Refactor Volume of Pyramid\08. Refactor Volume of Pyramid.csproj", "{A3AEA0AF-28E3-4E9C-8D32-BBAB87F49DB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Refactor Special Numbers", "09. Refactor Special Numbers\09. Refactor Special Numbers.csproj", "{0B81D815-F940-4AB4-A6C8-0B5E55C7C54F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{A3AEA0AF-28E3-4E9C-8D32-BBAB87F49DB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3AEA0AF-28E3-4E9C-8D32-BBAB87F49DB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3AEA0AF-28E3-4E9C-8D32-BBAB87F49DB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B81D815-F940-4AB4-A6C8-0B5E55C7C54F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B81D815-F940-4AB4-A6C8-0B5E55C7C54F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B81D815-F940-4AB4-A6C8-0B5E55C7C54F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B81D815-F940-4AB4-A6C8-0B5E55C7C54F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

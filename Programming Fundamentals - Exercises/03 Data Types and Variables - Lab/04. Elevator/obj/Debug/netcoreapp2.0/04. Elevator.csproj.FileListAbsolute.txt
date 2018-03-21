@@ -8,3 +8,14 @@ C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\
 C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Data Types and Variables - Lab\04. Elevator\obj\Debug\netcoreapp2.0\04. Elevator.AssemblyInfo.cs
 C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Data Types and Variables - Lab\04. Elevator\obj\Debug\netcoreapp2.0\04. Elevator.dll
 C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Data Types and Variables - Lab\04. Elevator\obj\Debug\netcoreapp2.0\04. Elevator.pdb
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\03 Data Types and Variables - Lab\04. Elevator\bin\Debug\netcoreapp2.0\04. Elevator.deps.json
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\03 Data Types and Variables - Lab\04. Elevator\bin\Debug\netcoreapp2.0\04. Elevator.runtimeconfig.json
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\03 Data Types and Variables - Lab\04. Elevator\bin\Debug\netcoreapp2.0\04. Elevator.runtimeconfig.dev.json
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\03 Data Types and Variables - Lab\04. Elevator\bin\Debug\netcoreapp2.0\04. Elevator.dll
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\03 Data Types and Variables - Lab\04. Elevator\bin\Debug\netcoreapp2.0\04. Elevator.pdb
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\03 Data Types and Variables - Lab\04. Elevator\obj\Debug\netcoreapp2.0\04. Elevator.csprojResolveAssemblyReference.cache
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\03 Data Types and Variables - Lab\04. Elevator\obj\Debug\netcoreapp2.0\04. Elevator.csproj.CoreCompileInputs.cache
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\03 Data Types and Variables - Lab\04. Elevator\obj\Debug\netcoreapp2.0\04. Elevator.AssemblyInfoInputs.cache
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\03 Data Types and Variables - Lab\04. Elevator\obj\Debug\netcoreapp2.0\04. Elevator.AssemblyInfo.cs
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\03 Data Types and Variables - Lab\04. Elevator\obj\Debug\netcoreapp2.0\04. Elevator.dll
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\03 Data Types and Variables - Lab\04. Elevator\obj\Debug\netcoreapp2.0\04. Elevator.pdb
