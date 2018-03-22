@@ -1,0 +1,11 @@
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\05. Boolean Variable\bin\Debug\netcoreapp2.0\05. Boolean Variable.deps.json
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\05. Boolean Variable\bin\Debug\netcoreapp2.0\05. Boolean Variable.runtimeconfig.json
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\05. Boolean Variable\bin\Debug\netcoreapp2.0\05. Boolean Variable.runtimeconfig.dev.json
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\05. Boolean Variable\bin\Debug\netcoreapp2.0\05. Boolean Variable.dll
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\05. Boolean Variable\bin\Debug\netcoreapp2.0\05. Boolean Variable.pdb
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\05. Boolean Variable\obj\Debug\netcoreapp2.0\05. Boolean Variable.csprojResolveAssemblyReference.cache
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\05. Boolean Variable\obj\Debug\netcoreapp2.0\05. Boolean Variable.csproj.CoreCompileInputs.cache
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\05. Boolean Variable\obj\Debug\netcoreapp2.0\05. Boolean Variable.AssemblyInfoInputs.cache
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\05. Boolean Variable\obj\Debug\netcoreapp2.0\05. Boolean Variable.AssemblyInfo.cs
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\05. Boolean Variable\obj\Debug\netcoreapp2.0\05. Boolean Variable.dll
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\05. Boolean Variable\obj\Debug\netcoreapp2.0\05. Boolean Variable.pdb

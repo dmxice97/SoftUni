@@ -1,0 +1,11 @@
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\03. Practice Chars And Strings\bin\Debug\netcoreapp2.0\03. Practice Chars And Strings.deps.json
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\03. Practice Chars And Strings\bin\Debug\netcoreapp2.0\03. Practice Chars And Strings.runtimeconfig.json
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\03. Practice Chars And Strings\bin\Debug\netcoreapp2.0\03. Practice Chars And Strings.runtimeconfig.dev.json
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\03. Practice Chars And Strings\bin\Debug\netcoreapp2.0\03. Practice Chars And Strings.dll
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\03. Practice Chars And Strings\bin\Debug\netcoreapp2.0\03. Practice Chars And Strings.pdb
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\03. Practice Chars And Strings\obj\Debug\netcoreapp2.0\03. Practice Chars And Strings.csproj.CoreCompileInputs.cache
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\03. Practice Chars And Strings\obj\Debug\netcoreapp2.0\03. Practice Chars And Strings.AssemblyInfoInputs.cache
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\03. Practice Chars And Strings\obj\Debug\netcoreapp2.0\03. Practice Chars And Strings.AssemblyInfo.cs
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\03. Practice Chars And Strings\obj\Debug\netcoreapp2.0\03. Practice Chars And Strings.dll
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\03. Practice Chars And Strings\obj\Debug\netcoreapp2.0\03. Practice Chars And Strings.pdb
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\03. Practice Chars And Strings\obj\Debug\netcoreapp2.0\03. Practice Chars And Strings.csprojResolveAssemblyReference.cache

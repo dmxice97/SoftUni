@@ -1,0 +1,10 @@
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\07. Exchange Variable Values\bin\Debug\netcoreapp2.0\07. Exchange Variable Values.deps.json
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\07. Exchange Variable Values\bin\Debug\netcoreapp2.0\07. Exchange Variable Values.runtimeconfig.json
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\07. Exchange Variable Values\bin\Debug\netcoreapp2.0\07. Exchange Variable Values.runtimeconfig.dev.json
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\07. Exchange Variable Values\bin\Debug\netcoreapp2.0\07. Exchange Variable Values.dll
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\07. Exchange Variable Values\bin\Debug\netcoreapp2.0\07. Exchange Variable Values.pdb
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\07. Exchange Variable Values\obj\Debug\netcoreapp2.0\07. Exchange Variable Values.csproj.CoreCompileInputs.cache
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\07. Exchange Variable Values\obj\Debug\netcoreapp2.0\07. Exchange Variable Values.AssemblyInfoInputs.cache
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\07. Exchange Variable Values\obj\Debug\netcoreapp2.0\07. Exchange Variable Values.AssemblyInfo.cs
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\07. Exchange Variable Values\obj\Debug\netcoreapp2.0\07. Exchange Variable Values.dll
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\07. Exchange Variable Values\obj\Debug\netcoreapp2.0\07. Exchange Variable Values.pdb

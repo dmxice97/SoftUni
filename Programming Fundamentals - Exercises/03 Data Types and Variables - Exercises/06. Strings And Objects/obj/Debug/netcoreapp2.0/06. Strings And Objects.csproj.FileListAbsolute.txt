@@ -1,0 +1,11 @@
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\06. Strings And Objects\bin\Debug\netcoreapp2.0\06. Strings And Objects.deps.json
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\06. Strings And Objects\bin\Debug\netcoreapp2.0\06. Strings And Objects.runtimeconfig.json
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\06. Strings And Objects\bin\Debug\netcoreapp2.0\06. Strings And Objects.runtimeconfig.dev.json
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\06. Strings And Objects\bin\Debug\netcoreapp2.0\06. Strings And Objects.dll
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\06. Strings And Objects\bin\Debug\netcoreapp2.0\06. Strings And Objects.pdb
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\06. Strings And Objects\obj\Debug\netcoreapp2.0\06. Strings And Objects.csproj.CoreCompileInputs.cache
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\06. Strings And Objects\obj\Debug\netcoreapp2.0\06. Strings And Objects.AssemblyInfoInputs.cache
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\06. Strings And Objects\obj\Debug\netcoreapp2.0\06. Strings And Objects.AssemblyInfo.cs
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\06. Strings And Objects\obj\Debug\netcoreapp2.0\06. Strings And Objects.dll
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\06. Strings And Objects\obj\Debug\netcoreapp2.0\06. Strings And Objects.pdb
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\06. Strings And Objects\obj\Debug\netcoreapp2.0\06. Strings And Objects.csprojResolveAssemblyReference.cache

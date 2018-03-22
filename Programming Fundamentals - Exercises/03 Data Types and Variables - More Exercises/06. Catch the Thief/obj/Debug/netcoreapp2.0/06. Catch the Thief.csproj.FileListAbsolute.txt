@@ -1,0 +1,11 @@
+C:\Users\dmxic\source\repos\Data Types and Variables - More Exercises\06. Catch the Thief\bin\Debug\netcoreapp2.0\06. Catch the Thief.deps.json
+C:\Users\dmxic\source\repos\Data Types and Variables - More Exercises\06. Catch the Thief\bin\Debug\netcoreapp2.0\06. Catch the Thief.runtimeconfig.json
+C:\Users\dmxic\source\repos\Data Types and Variables - More Exercises\06. Catch the Thief\bin\Debug\netcoreapp2.0\06. Catch the Thief.runtimeconfig.dev.json
+C:\Users\dmxic\source\repos\Data Types and Variables - More Exercises\06. Catch the Thief\bin\Debug\netcoreapp2.0\06. Catch the Thief.dll
+C:\Users\dmxic\source\repos\Data Types and Variables - More Exercises\06. Catch the Thief\bin\Debug\netcoreapp2.0\06. Catch the Thief.pdb
+C:\Users\dmxic\source\repos\Data Types and Variables - More Exercises\06. Catch the Thief\obj\Debug\netcoreapp2.0\06. Catch the Thief.csprojResolveAssemblyReference.cache
+C:\Users\dmxic\source\repos\Data Types and Variables - More Exercises\06. Catch the Thief\obj\Debug\netcoreapp2.0\06. Catch the Thief.csproj.CoreCompileInputs.cache
+C:\Users\dmxic\source\repos\Data Types and Variables - More Exercises\06. Catch the Thief\obj\Debug\netcoreapp2.0\06. Catch the Thief.AssemblyInfoInputs.cache
+C:\Users\dmxic\source\repos\Data Types and Variables - More Exercises\06. Catch the Thief\obj\Debug\netcoreapp2.0\06. Catch the Thief.AssemblyInfo.cs
+C:\Users\dmxic\source\repos\Data Types and Variables - More Exercises\06. Catch the Thief\obj\Debug\netcoreapp2.0\06. Catch the Thief.dll
+C:\Users\dmxic\source\repos\Data Types and Variables - More Exercises\06. Catch the Thief\obj\Debug\netcoreapp2.0\06. Catch the Thief.pdb

@@ -1,0 +1,11 @@
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\10. Centuries to Nanoseconds\bin\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.deps.json
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\10. Centuries to Nanoseconds\bin\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.runtimeconfig.json
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\10. Centuries to Nanoseconds\bin\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.runtimeconfig.dev.json
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\10. Centuries to Nanoseconds\bin\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.dll
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\10. Centuries to Nanoseconds\bin\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.pdb
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\10. Centuries to Nanoseconds\obj\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.csproj.CoreCompileInputs.cache
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\10. Centuries to Nanoseconds\obj\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.AssemblyInfoInputs.cache
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\10. Centuries to Nanoseconds\obj\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.AssemblyInfo.cs
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\10. Centuries to Nanoseconds\obj\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.dll
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\10. Centuries to Nanoseconds\obj\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.pdb
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\10. Centuries to Nanoseconds\obj\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.csprojResolveAssemblyReference.cache

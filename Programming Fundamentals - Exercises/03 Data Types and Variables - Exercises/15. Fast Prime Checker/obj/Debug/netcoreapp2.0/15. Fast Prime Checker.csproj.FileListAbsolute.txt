@@ -1,0 +1,10 @@
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\15. Fast Prime Checker\bin\Debug\netcoreapp2.0\15. Fast Prime Checker.deps.json
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\15. Fast Prime Checker\bin\Debug\netcoreapp2.0\15. Fast Prime Checker.runtimeconfig.json
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\15. Fast Prime Checker\bin\Debug\netcoreapp2.0\15. Fast Prime Checker.runtimeconfig.dev.json
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\15. Fast Prime Checker\bin\Debug\netcoreapp2.0\15. Fast Prime Checker.dll
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\15. Fast Prime Checker\bin\Debug\netcoreapp2.0\15. Fast Prime Checker.pdb
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\15. Fast Prime Checker\obj\Debug\netcoreapp2.0\15. Fast Prime Checker.csproj.CoreCompileInputs.cache
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\15. Fast Prime Checker\obj\Debug\netcoreapp2.0\15. Fast Prime Checker.AssemblyInfoInputs.cache
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\15. Fast Prime Checker\obj\Debug\netcoreapp2.0\15. Fast Prime Checker.AssemblyInfo.cs
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\15. Fast Prime Checker\obj\Debug\netcoreapp2.0\15. Fast Prime Checker.dll
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\15. Fast Prime Checker\obj\Debug\netcoreapp2.0\15. Fast Prime Checker.pdb

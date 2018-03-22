@@ -1,0 +1,11 @@
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\01. Practice Integers\bin\Debug\netcoreapp2.0\01. Practice Integers.deps.json
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\01. Practice Integers\bin\Debug\netcoreapp2.0\01. Practice Integers.runtimeconfig.json
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\01. Practice Integers\bin\Debug\netcoreapp2.0\01. Practice Integers.runtimeconfig.dev.json
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\01. Practice Integers\bin\Debug\netcoreapp2.0\01. Practice Integers.dll
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\01. Practice Integers\bin\Debug\netcoreapp2.0\01. Practice Integers.pdb
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\01. Practice Integers\obj\Debug\netcoreapp2.0\01. Practice Integers.csprojResolveAssemblyReference.cache
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\01. Practice Integers\obj\Debug\netcoreapp2.0\01. Practice Integers.csproj.CoreCompileInputs.cache
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\01. Practice Integers\obj\Debug\netcoreapp2.0\01. Practice Integers.AssemblyInfoInputs.cache
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\01. Practice Integers\obj\Debug\netcoreapp2.0\01. Practice Integers.AssemblyInfo.cs
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\01. Practice Integers\obj\Debug\netcoreapp2.0\01. Practice Integers.dll
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\01. Practice Integers\obj\Debug\netcoreapp2.0\01. Practice Integers.pdb

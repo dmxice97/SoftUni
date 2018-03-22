@@ -1,0 +1,10 @@
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\09. Reversed chars\bin\Debug\netcoreapp2.0\09. Reversed chars.deps.json
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\09. Reversed chars\bin\Debug\netcoreapp2.0\09. Reversed chars.runtimeconfig.json
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\09. Reversed chars\bin\Debug\netcoreapp2.0\09. Reversed chars.runtimeconfig.dev.json
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\09. Reversed chars\bin\Debug\netcoreapp2.0\09. Reversed chars.dll
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\09. Reversed chars\bin\Debug\netcoreapp2.0\09. Reversed chars.pdb
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\09. Reversed chars\obj\Debug\netcoreapp2.0\09. Reversed chars.csproj.CoreCompileInputs.cache
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\09. Reversed chars\obj\Debug\netcoreapp2.0\09. Reversed chars.AssemblyInfoInputs.cache
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\09. Reversed chars\obj\Debug\netcoreapp2.0\09. Reversed chars.AssemblyInfo.cs
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\09. Reversed chars\obj\Debug\netcoreapp2.0\09. Reversed chars.dll
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\09. Reversed chars\obj\Debug\netcoreapp2.0\09. Reversed chars.pdb

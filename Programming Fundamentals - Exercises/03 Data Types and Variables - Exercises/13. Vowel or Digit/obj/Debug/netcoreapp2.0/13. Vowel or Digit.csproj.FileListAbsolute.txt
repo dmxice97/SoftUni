@@ -1,0 +1,11 @@
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\13. Vowel or Digit\bin\Debug\netcoreapp2.0\13. Vowel or Digit.deps.json
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\13. Vowel or Digit\bin\Debug\netcoreapp2.0\13. Vowel or Digit.runtimeconfig.json
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\13. Vowel or Digit\bin\Debug\netcoreapp2.0\13. Vowel or Digit.runtimeconfig.dev.json
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\13. Vowel or Digit\bin\Debug\netcoreapp2.0\13. Vowel or Digit.dll
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\13. Vowel or Digit\bin\Debug\netcoreapp2.0\13. Vowel or Digit.pdb
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\13. Vowel or Digit\obj\Debug\netcoreapp2.0\13. Vowel or Digit.csprojResolveAssemblyReference.cache
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\13. Vowel or Digit\obj\Debug\netcoreapp2.0\13. Vowel or Digit.csproj.CoreCompileInputs.cache
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\13. Vowel or Digit\obj\Debug\netcoreapp2.0\13. Vowel or Digit.AssemblyInfoInputs.cache
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\13. Vowel or Digit\obj\Debug\netcoreapp2.0\13. Vowel or Digit.AssemblyInfo.cs
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\13. Vowel or Digit\obj\Debug\netcoreapp2.0\13. Vowel or Digit.dll
+c:\users\dmxic\source\repos\Data Types and Variables - Exercises\13. Vowel or Digit\obj\Debug\netcoreapp2.0\13. Vowel or Digit.pdb

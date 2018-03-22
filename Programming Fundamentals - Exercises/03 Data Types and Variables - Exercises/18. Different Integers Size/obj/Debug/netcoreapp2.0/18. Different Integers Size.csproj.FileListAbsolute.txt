@@ -1,0 +1,11 @@
+C:\Users\dmxic\source\repos\Data Types and Variables - Exercises\18. Different Integers Size\bin\Debug\netcoreapp2.0\18. Different Integers Size.deps.json
+C:\Users\dmxic\source\repos\Data Types and Variables - Exercises\18. Different Integers Size\bin\Debug\netcoreapp2.0\18. Different Integers Size.runtimeconfig.json
+C:\Users\dmxic\source\repos\Data Types and Variables - Exercises\18. Different Integers Size\bin\Debug\netcoreapp2.0\18. Different Integers Size.runtimeconfig.dev.json
+C:\Users\dmxic\source\repos\Data Types and Variables - Exercises\18. Different Integers Size\bin\Debug\netcoreapp2.0\18. Different Integers Size.dll
+C:\Users\dmxic\source\repos\Data Types and Variables - Exercises\18. Different Integers Size\bin\Debug\netcoreapp2.0\18. Different Integers Size.pdb
+C:\Users\dmxic\source\repos\Data Types and Variables - Exercises\18. Different Integers Size\obj\Debug\netcoreapp2.0\18. Different Integers Size.csproj.CoreCompileInputs.cache
+C:\Users\dmxic\source\repos\Data Types and Variables - Exercises\18. Different Integers Size\obj\Debug\netcoreapp2.0\18. Different Integers Size.AssemblyInfoInputs.cache
+C:\Users\dmxic\source\repos\Data Types and Variables - Exercises\18. Different Integers Size\obj\Debug\netcoreapp2.0\18. Different Integers Size.AssemblyInfo.cs
+C:\Users\dmxic\source\repos\Data Types and Variables - Exercises\18. Different Integers Size\obj\Debug\netcoreapp2.0\18. Different Integers Size.dll
+C:\Users\dmxic\source\repos\Data Types and Variables - Exercises\18. Different Integers Size\obj\Debug\netcoreapp2.0\18. Different Integers Size.pdb
+C:\Users\dmxic\source\repos\Data Types and Variables - Exercises\18. Different Integers Size\obj\Debug\netcoreapp2.0\18. Different Integers Size.csprojResolveAssemblyReference.cache

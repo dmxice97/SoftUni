@@ -1,0 +1,11 @@
+C:\Users\dmxic\source\repos\Data Types and Variables - More Exercises\08. House Builder\bin\Debug\netcoreapp2.0\08. House Builder.deps.json
+C:\Users\dmxic\source\repos\Data Types and Variables - More Exercises\08. House Builder\bin\Debug\netcoreapp2.0\08. House Builder.runtimeconfig.json
+C:\Users\dmxic\source\repos\Data Types and Variables - More Exercises\08. House Builder\bin\Debug\netcoreapp2.0\08. House Builder.runtimeconfig.dev.json
+C:\Users\dmxic\source\repos\Data Types and Variables - More Exercises\08. House Builder\bin\Debug\netcoreapp2.0\08. House Builder.dll
+C:\Users\dmxic\source\repos\Data Types and Variables - More Exercises\08. House Builder\bin\Debug\netcoreapp2.0\08. House Builder.pdb
+C:\Users\dmxic\source\repos\Data Types and Variables - More Exercises\08. House Builder\obj\Debug\netcoreapp2.0\08. House Builder.csprojResolveAssemblyReference.cache
+C:\Users\dmxic\source\repos\Data Types and Variables - More Exercises\08. House Builder\obj\Debug\netcoreapp2.0\08. House Builder.csproj.CoreCompileInputs.cache
+C:\Users\dmxic\source\repos\Data Types and Variables - More Exercises\08. House Builder\obj\Debug\netcoreapp2.0\08. House Builder.AssemblyInfoInputs.cache
+C:\Users\dmxic\source\repos\Data Types and Variables - More Exercises\08. House Builder\obj\Debug\netcoreapp2.0\08. House Builder.AssemblyInfo.cs
+C:\Users\dmxic\source\repos\Data Types and Variables - More Exercises\08. House Builder\obj\Debug\netcoreapp2.0\08. House Builder.dll
+C:\Users\dmxic\source\repos\Data Types and Variables - More Exercises\08. House Builder\obj\Debug\netcoreapp2.0\08. House Builder.pdb
