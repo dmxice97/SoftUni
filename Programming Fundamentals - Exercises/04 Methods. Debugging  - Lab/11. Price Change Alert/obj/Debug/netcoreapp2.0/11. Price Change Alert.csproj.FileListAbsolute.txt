@@ -1,0 +1,10 @@
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Methods. Debugging  - Lab\11. Price Change Alert\bin\Debug\netcoreapp2.0\11. Price Change Alert.deps.json
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Methods. Debugging  - Lab\11. Price Change Alert\bin\Debug\netcoreapp2.0\11. Price Change Alert.runtimeconfig.json
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Methods. Debugging  - Lab\11. Price Change Alert\bin\Debug\netcoreapp2.0\11. Price Change Alert.runtimeconfig.dev.json
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Methods. Debugging  - Lab\11. Price Change Alert\bin\Debug\netcoreapp2.0\11. Price Change Alert.dll
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Methods. Debugging  - Lab\11. Price Change Alert\bin\Debug\netcoreapp2.0\11. Price Change Alert.pdb
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Methods. Debugging  - Lab\11. Price Change Alert\obj\Debug\netcoreapp2.0\11. Price Change Alert.csproj.CoreCompileInputs.cache
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Methods. Debugging  - Lab\11. Price Change Alert\obj\Debug\netcoreapp2.0\11. Price Change Alert.AssemblyInfoInputs.cache
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Methods. Debugging  - Lab\11. Price Change Alert\obj\Debug\netcoreapp2.0\11. Price Change Alert.AssemblyInfo.cs
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Methods. Debugging  - Lab\11. Price Change Alert\obj\Debug\netcoreapp2.0\11. Price Change Alert.dll
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Methods. Debugging  - Lab\11. Price Change Alert\obj\Debug\netcoreapp2.0\11. Price Change Alert.pdb

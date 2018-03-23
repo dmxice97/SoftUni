@@ -1,0 +1,10 @@
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Methods. Debugging  - Lab\09. Multiply Evens by Odds\bin\Debug\netcoreapp2.0\09. Multiply Evens by Odds.deps.json
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Methods. Debugging  - Lab\09. Multiply Evens by Odds\bin\Debug\netcoreapp2.0\09. Multiply Evens by Odds.runtimeconfig.json
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Methods. Debugging  - Lab\09. Multiply Evens by Odds\bin\Debug\netcoreapp2.0\09. Multiply Evens by Odds.runtimeconfig.dev.json
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Methods. Debugging  - Lab\09. Multiply Evens by Odds\bin\Debug\netcoreapp2.0\09. Multiply Evens by Odds.dll
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Methods. Debugging  - Lab\09. Multiply Evens by Odds\bin\Debug\netcoreapp2.0\09. Multiply Evens by Odds.pdb
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Methods. Debugging  - Lab\09. Multiply Evens by Odds\obj\Debug\netcoreapp2.0\09. Multiply Evens by Odds.csproj.CoreCompileInputs.cache
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Methods. Debugging  - Lab\09. Multiply Evens by Odds\obj\Debug\netcoreapp2.0\09. Multiply Evens by Odds.AssemblyInfoInputs.cache
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Methods. Debugging  - Lab\09. Multiply Evens by Odds\obj\Debug\netcoreapp2.0\09. Multiply Evens by Odds.AssemblyInfo.cs
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Methods. Debugging  - Lab\09. Multiply Evens by Odds\obj\Debug\netcoreapp2.0\09. Multiply Evens by Odds.dll
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Methods. Debugging  - Lab\09. Multiply Evens by Odds\obj\Debug\netcoreapp2.0\09. Multiply Evens by Odds.pdb

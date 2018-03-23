@@ -1,0 +1,11 @@
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Methods. Debugging  - Lab\06. Calculate Triangle Area\bin\Debug\netcoreapp2.0\06. Calculate Triangle Area.deps.json
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Methods. Debugging  - Lab\06. Calculate Triangle Area\bin\Debug\netcoreapp2.0\06. Calculate Triangle Area.runtimeconfig.json
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Methods. Debugging  - Lab\06. Calculate Triangle Area\bin\Debug\netcoreapp2.0\06. Calculate Triangle Area.runtimeconfig.dev.json
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Methods. Debugging  - Lab\06. Calculate Triangle Area\bin\Debug\netcoreapp2.0\06. Calculate Triangle Area.dll
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Methods. Debugging  - Lab\06. Calculate Triangle Area\bin\Debug\netcoreapp2.0\06. Calculate Triangle Area.pdb
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Methods. Debugging  - Lab\06. Calculate Triangle Area\obj\Debug\netcoreapp2.0\06. Calculate Triangle Area.csprojResolveAssemblyReference.cache
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Methods. Debugging  - Lab\06. Calculate Triangle Area\obj\Debug\netcoreapp2.0\06. Calculate Triangle Area.csproj.CoreCompileInputs.cache
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Methods. Debugging  - Lab\06. Calculate Triangle Area\obj\Debug\netcoreapp2.0\06. Calculate Triangle Area.AssemblyInfoInputs.cache
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Methods. Debugging  - Lab\06. Calculate Triangle Area\obj\Debug\netcoreapp2.0\06. Calculate Triangle Area.AssemblyInfo.cs
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Methods. Debugging  - Lab\06. Calculate Triangle Area\obj\Debug\netcoreapp2.0\06. Calculate Triangle Area.dll
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Methods. Debugging  - Lab\06. Calculate Triangle Area\obj\Debug\netcoreapp2.0\06. Calculate Triangle Area.pdb

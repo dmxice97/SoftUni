@@ -1,0 +1,11 @@
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Methods. Debugging  - Lab\02. Sign of Integer Number\bin\Debug\netcoreapp2.0\02. Sign of Integer Number.deps.json
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Methods. Debugging  - Lab\02. Sign of Integer Number\bin\Debug\netcoreapp2.0\02. Sign of Integer Number.runtimeconfig.json
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Methods. Debugging  - Lab\02. Sign of Integer Number\bin\Debug\netcoreapp2.0\02. Sign of Integer Number.runtimeconfig.dev.json
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Methods. Debugging  - Lab\02. Sign of Integer Number\bin\Debug\netcoreapp2.0\02. Sign of Integer Number.dll
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Methods. Debugging  - Lab\02. Sign of Integer Number\bin\Debug\netcoreapp2.0\02. Sign of Integer Number.pdb
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Methods. Debugging  - Lab\02. Sign of Integer Number\obj\Debug\netcoreapp2.0\02. Sign of Integer Number.csprojResolveAssemblyReference.cache
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Methods. Debugging  - Lab\02. Sign of Integer Number\obj\Debug\netcoreapp2.0\02. Sign of Integer Number.csproj.CoreCompileInputs.cache
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Methods. Debugging  - Lab\02. Sign of Integer Number\obj\Debug\netcoreapp2.0\02. Sign of Integer Number.AssemblyInfoInputs.cache
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Methods. Debugging  - Lab\02. Sign of Integer Number\obj\Debug\netcoreapp2.0\02. Sign of Integer Number.AssemblyInfo.cs
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Methods. Debugging  - Lab\02. Sign of Integer Number\obj\Debug\netcoreapp2.0\02. Sign of Integer Number.dll
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\Methods. Debugging  - Lab\02. Sign of Integer Number\obj\Debug\netcoreapp2.0\02. Sign of Integer Number.pdb
