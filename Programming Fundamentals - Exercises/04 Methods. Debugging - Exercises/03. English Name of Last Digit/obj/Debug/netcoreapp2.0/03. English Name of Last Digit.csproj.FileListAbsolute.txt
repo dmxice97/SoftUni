@@ -1,0 +1,11 @@
+c:\users\dmxic\source\repos\04 Methods. Debugging Exercoses\03. English Name of Last Digit\bin\Debug\netcoreapp2.0\03. English Name of Last Digit.deps.json
+c:\users\dmxic\source\repos\04 Methods. Debugging Exercoses\03. English Name of Last Digit\bin\Debug\netcoreapp2.0\03. English Name of Last Digit.runtimeconfig.json
+c:\users\dmxic\source\repos\04 Methods. Debugging Exercoses\03. English Name of Last Digit\bin\Debug\netcoreapp2.0\03. English Name of Last Digit.runtimeconfig.dev.json
+c:\users\dmxic\source\repos\04 Methods. Debugging Exercoses\03. English Name of Last Digit\bin\Debug\netcoreapp2.0\03. English Name of Last Digit.dll
+c:\users\dmxic\source\repos\04 Methods. Debugging Exercoses\03. English Name of Last Digit\bin\Debug\netcoreapp2.0\03. English Name of Last Digit.pdb
+c:\users\dmxic\source\repos\04 Methods. Debugging Exercoses\03. English Name of Last Digit\obj\Debug\netcoreapp2.0\03. English Name of Last Digit.csprojResolveAssemblyReference.cache
+c:\users\dmxic\source\repos\04 Methods. Debugging Exercoses\03. English Name of Last Digit\obj\Debug\netcoreapp2.0\03. English Name of Last Digit.csproj.CoreCompileInputs.cache
+c:\users\dmxic\source\repos\04 Methods. Debugging Exercoses\03. English Name of Last Digit\obj\Debug\netcoreapp2.0\03. English Name of Last Digit.AssemblyInfoInputs.cache
+c:\users\dmxic\source\repos\04 Methods. Debugging Exercoses\03. English Name of Last Digit\obj\Debug\netcoreapp2.0\03. English Name of Last Digit.AssemblyInfo.cs
+c:\users\dmxic\source\repos\04 Methods. Debugging Exercoses\03. English Name of Last Digit\obj\Debug\netcoreapp2.0\03. English Name of Last Digit.dll
+c:\users\dmxic\source\repos\04 Methods. Debugging Exercoses\03. English Name of Last Digit\obj\Debug\netcoreapp2.0\03. English Name of Last Digit.pdb

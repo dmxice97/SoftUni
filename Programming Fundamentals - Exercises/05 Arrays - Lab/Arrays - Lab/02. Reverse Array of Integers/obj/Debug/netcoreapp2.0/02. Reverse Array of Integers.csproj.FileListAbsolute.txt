@@ -1,0 +1,11 @@
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\05 Arrays - Lab\Arrays - Lab\02. Reverse Array of Integers\bin\Debug\netcoreapp2.0\02. Reverse Array of Integers.deps.json
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\05 Arrays - Lab\Arrays - Lab\02. Reverse Array of Integers\bin\Debug\netcoreapp2.0\02. Reverse Array of Integers.runtimeconfig.json
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\05 Arrays - Lab\Arrays - Lab\02. Reverse Array of Integers\bin\Debug\netcoreapp2.0\02. Reverse Array of Integers.runtimeconfig.dev.json
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\05 Arrays - Lab\Arrays - Lab\02. Reverse Array of Integers\bin\Debug\netcoreapp2.0\02. Reverse Array of Integers.dll
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\05 Arrays - Lab\Arrays - Lab\02. Reverse Array of Integers\bin\Debug\netcoreapp2.0\02. Reverse Array of Integers.pdb
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\05 Arrays - Lab\Arrays - Lab\02. Reverse Array of Integers\obj\Debug\netcoreapp2.0\02. Reverse Array of Integers.csprojResolveAssemblyReference.cache
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\05 Arrays - Lab\Arrays - Lab\02. Reverse Array of Integers\obj\Debug\netcoreapp2.0\02. Reverse Array of Integers.csproj.CoreCompileInputs.cache
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\05 Arrays - Lab\Arrays - Lab\02. Reverse Array of Integers\obj\Debug\netcoreapp2.0\02. Reverse Array of Integers.AssemblyInfoInputs.cache
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\05 Arrays - Lab\Arrays - Lab\02. Reverse Array of Integers\obj\Debug\netcoreapp2.0\02. Reverse Array of Integers.AssemblyInfo.cs
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\05 Arrays - Lab\Arrays - Lab\02. Reverse Array of Integers\obj\Debug\netcoreapp2.0\02. Reverse Array of Integers.dll
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\05 Arrays - Lab\Arrays - Lab\02. Reverse Array of Integers\obj\Debug\netcoreapp2.0\02. Reverse Array of Integers.pdb

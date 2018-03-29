@@ -1,0 +1,10 @@
+C:\Users\dmxic\source\repos\04 Methods. Debugging Exercoses\13. Factorial\bin\Debug\netcoreapp2.0\13. Factorial.deps.json
+C:\Users\dmxic\source\repos\04 Methods. Debugging Exercoses\13. Factorial\bin\Debug\netcoreapp2.0\13. Factorial.runtimeconfig.json
+C:\Users\dmxic\source\repos\04 Methods. Debugging Exercoses\13. Factorial\bin\Debug\netcoreapp2.0\13. Factorial.runtimeconfig.dev.json
+C:\Users\dmxic\source\repos\04 Methods. Debugging Exercoses\13. Factorial\bin\Debug\netcoreapp2.0\13. Factorial.dll
+C:\Users\dmxic\source\repos\04 Methods. Debugging Exercoses\13. Factorial\bin\Debug\netcoreapp2.0\13. Factorial.pdb
+C:\Users\dmxic\source\repos\04 Methods. Debugging Exercoses\13. Factorial\obj\Debug\netcoreapp2.0\13. Factorial.csproj.CoreCompileInputs.cache
+C:\Users\dmxic\source\repos\04 Methods. Debugging Exercoses\13. Factorial\obj\Debug\netcoreapp2.0\13. Factorial.AssemblyInfoInputs.cache
+C:\Users\dmxic\source\repos\04 Methods. Debugging Exercoses\13. Factorial\obj\Debug\netcoreapp2.0\13. Factorial.AssemblyInfo.cs
+C:\Users\dmxic\source\repos\04 Methods. Debugging Exercoses\13. Factorial\obj\Debug\netcoreapp2.0\13. Factorial.dll
+C:\Users\dmxic\source\repos\04 Methods. Debugging Exercoses\13. Factorial\obj\Debug\netcoreapp2.0\13. Factorial.pdb

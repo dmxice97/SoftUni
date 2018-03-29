@@ -1,0 +1,11 @@
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\05 Arrays - Lab\Arrays - Lab\05. Rounding Numbers\bin\Debug\netcoreapp2.0\05. Rounding Numbers.deps.json
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\05 Arrays - Lab\Arrays - Lab\05. Rounding Numbers\bin\Debug\netcoreapp2.0\05. Rounding Numbers.runtimeconfig.json
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\05 Arrays - Lab\Arrays - Lab\05. Rounding Numbers\bin\Debug\netcoreapp2.0\05. Rounding Numbers.runtimeconfig.dev.json
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\05 Arrays - Lab\Arrays - Lab\05. Rounding Numbers\bin\Debug\netcoreapp2.0\05. Rounding Numbers.dll
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\05 Arrays - Lab\Arrays - Lab\05. Rounding Numbers\bin\Debug\netcoreapp2.0\05. Rounding Numbers.pdb
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\05 Arrays - Lab\Arrays - Lab\05. Rounding Numbers\obj\Debug\netcoreapp2.0\05. Rounding Numbers.csprojResolveAssemblyReference.cache
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\05 Arrays - Lab\Arrays - Lab\05. Rounding Numbers\obj\Debug\netcoreapp2.0\05. Rounding Numbers.csproj.CoreCompileInputs.cache
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\05 Arrays - Lab\Arrays - Lab\05. Rounding Numbers\obj\Debug\netcoreapp2.0\05. Rounding Numbers.AssemblyInfoInputs.cache
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\05 Arrays - Lab\Arrays - Lab\05. Rounding Numbers\obj\Debug\netcoreapp2.0\05. Rounding Numbers.AssemblyInfo.cs
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\05 Arrays - Lab\Arrays - Lab\05. Rounding Numbers\obj\Debug\netcoreapp2.0\05. Rounding Numbers.dll
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\05 Arrays - Lab\Arrays - Lab\05. Rounding Numbers\obj\Debug\netcoreapp2.0\05. Rounding Numbers.pdb

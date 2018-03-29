@@ -1,0 +1,11 @@
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\05 Arrays - Lab\Arrays - Lab\04. Triple Sum\bin\Debug\netcoreapp2.0\04. Triple Sum.deps.json
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\05 Arrays - Lab\Arrays - Lab\04. Triple Sum\bin\Debug\netcoreapp2.0\04. Triple Sum.runtimeconfig.json
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\05 Arrays - Lab\Arrays - Lab\04. Triple Sum\bin\Debug\netcoreapp2.0\04. Triple Sum.runtimeconfig.dev.json
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\05 Arrays - Lab\Arrays - Lab\04. Triple Sum\bin\Debug\netcoreapp2.0\04. Triple Sum.dll
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\05 Arrays - Lab\Arrays - Lab\04. Triple Sum\bin\Debug\netcoreapp2.0\04. Triple Sum.pdb
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\05 Arrays - Lab\Arrays - Lab\04. Triple Sum\obj\Debug\netcoreapp2.0\04. Triple Sum.csprojResolveAssemblyReference.cache
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\05 Arrays - Lab\Arrays - Lab\04. Triple Sum\obj\Debug\netcoreapp2.0\04. Triple Sum.csproj.CoreCompileInputs.cache
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\05 Arrays - Lab\Arrays - Lab\04. Triple Sum\obj\Debug\netcoreapp2.0\04. Triple Sum.AssemblyInfoInputs.cache
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\05 Arrays - Lab\Arrays - Lab\04. Triple Sum\obj\Debug\netcoreapp2.0\04. Triple Sum.AssemblyInfo.cs
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\05 Arrays - Lab\Arrays - Lab\04. Triple Sum\obj\Debug\netcoreapp2.0\04. Triple Sum.dll
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\05 Arrays - Lab\Arrays - Lab\04. Triple Sum\obj\Debug\netcoreapp2.0\04. Triple Sum.pdb

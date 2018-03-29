@@ -1,0 +1,11 @@
+c:\users\dmxic\source\repos\04 Methods. Debugging Exercoses\01. Hello, Name!\bin\Debug\netcoreapp2.0\01. Hello, Name!.deps.json
+c:\users\dmxic\source\repos\04 Methods. Debugging Exercoses\01. Hello, Name!\bin\Debug\netcoreapp2.0\01. Hello, Name!.runtimeconfig.json
+c:\users\dmxic\source\repos\04 Methods. Debugging Exercoses\01. Hello, Name!\bin\Debug\netcoreapp2.0\01. Hello, Name!.runtimeconfig.dev.json
+c:\users\dmxic\source\repos\04 Methods. Debugging Exercoses\01. Hello, Name!\bin\Debug\netcoreapp2.0\01. Hello, Name!.dll
+c:\users\dmxic\source\repos\04 Methods. Debugging Exercoses\01. Hello, Name!\bin\Debug\netcoreapp2.0\01. Hello, Name!.pdb
+c:\users\dmxic\source\repos\04 Methods. Debugging Exercoses\01. Hello, Name!\obj\Debug\netcoreapp2.0\01. Hello, Name!.csprojResolveAssemblyReference.cache
+c:\users\dmxic\source\repos\04 Methods. Debugging Exercoses\01. Hello, Name!\obj\Debug\netcoreapp2.0\01. Hello, Name!.csproj.CoreCompileInputs.cache
+c:\users\dmxic\source\repos\04 Methods. Debugging Exercoses\01. Hello, Name!\obj\Debug\netcoreapp2.0\01. Hello, Name!.AssemblyInfoInputs.cache
+c:\users\dmxic\source\repos\04 Methods. Debugging Exercoses\01. Hello, Name!\obj\Debug\netcoreapp2.0\01. Hello, Name!.AssemblyInfo.cs
+c:\users\dmxic\source\repos\04 Methods. Debugging Exercoses\01. Hello, Name!\obj\Debug\netcoreapp2.0\01. Hello, Name!.dll
+c:\users\dmxic\source\repos\04 Methods. Debugging Exercoses\01. Hello, Name!\obj\Debug\netcoreapp2.0\01. Hello, Name!.pdb

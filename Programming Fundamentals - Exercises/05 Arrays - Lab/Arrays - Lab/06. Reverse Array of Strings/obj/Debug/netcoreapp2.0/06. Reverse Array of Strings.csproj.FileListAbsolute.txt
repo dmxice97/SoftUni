@@ -1,0 +1,10 @@
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\05 Arrays - Lab\Arrays - Lab\06. Reverse Array of Strings\bin\Debug\netcoreapp2.0\06. Reverse Array of Strings.deps.json
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\05 Arrays - Lab\Arrays - Lab\06. Reverse Array of Strings\bin\Debug\netcoreapp2.0\06. Reverse Array of Strings.runtimeconfig.json
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\05 Arrays - Lab\Arrays - Lab\06. Reverse Array of Strings\bin\Debug\netcoreapp2.0\06. Reverse Array of Strings.runtimeconfig.dev.json
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\05 Arrays - Lab\Arrays - Lab\06. Reverse Array of Strings\bin\Debug\netcoreapp2.0\06. Reverse Array of Strings.dll
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\05 Arrays - Lab\Arrays - Lab\06. Reverse Array of Strings\bin\Debug\netcoreapp2.0\06. Reverse Array of Strings.pdb
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\05 Arrays - Lab\Arrays - Lab\06. Reverse Array of Strings\obj\Debug\netcoreapp2.0\06. Reverse Array of Strings.csproj.CoreCompileInputs.cache
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\05 Arrays - Lab\Arrays - Lab\06. Reverse Array of Strings\obj\Debug\netcoreapp2.0\06. Reverse Array of Strings.AssemblyInfoInputs.cache
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\05 Arrays - Lab\Arrays - Lab\06. Reverse Array of Strings\obj\Debug\netcoreapp2.0\06. Reverse Array of Strings.AssemblyInfo.cs
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\05 Arrays - Lab\Arrays - Lab\06. Reverse Array of Strings\obj\Debug\netcoreapp2.0\06. Reverse Array of Strings.dll
+C:\Users\dmxic\Desktop\Software-University\Programming Fundamentals - Exercises\05 Arrays - Lab\Arrays - Lab\06. Reverse Array of Strings\obj\Debug\netcoreapp2.0\06. Reverse Array of Strings.pdb
